@@ -1,0 +1,27 @@
+.register-data{
+    margin-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 268px;
+    height: 36px;
+    cursor: pointer;
+    font-size: 12px;
+    border: 1px solid #dfdfdf;
+}
+
+.bttn{
+    background-color: #0095f6;
+    font-size: 14px;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 268px;
+    height: 31px;
+    border-radius: 3px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}

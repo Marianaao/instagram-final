@@ -1,0 +1,163 @@
+.containers{
+    font-family: Helvetica, Sans-Serif; 
+}
+
+.container{
+    font-family: Helvetica, Sans-Serif;
+    width: 355px;
+    height: auto;
+    background: #fff;
+    border: 1px solid #dfdfdf;
+    margin-left: 80px;
+}
+
+.container2{
+    font-family: Helvetica, Sans-Serif;
+    width: 355px;
+    height: auto;
+    background: #fff;
+    border: 1px solid #dfdfdf;
+    margin-top: 10px;
+    margin-left: 80px;
+    align-items: flex-end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email{
+    margin-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 248px;
+    cursor: pointer;
+}
+
+.password{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 248px;
+    cursor: pointer;
+}
+
+.instagram_logo{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 174px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button{
+    background-color: #0095f6;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 268px;
+    height: 31px;
+    border-radius: 3px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.or{
+    text-align: center;
+    font-size: 16px;
+    color: #8e8e8e;
+}
+
+.icon{
+    width: 20px;
+    margin: 0;
+    margin-right: 20px;
+}
+
+.facebook{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 14px;
+    padding-bottom: 4px;
+    color: #385185;
+    font-weight: bold;  
+}
+
+.log_facebook{
+    align-items: flex-end;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.forgot_password{
+    font-size: 12px;
+    color: #385185;
+    text-align: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.organizar{
+    align-items: flex-end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.mockup{
+    width: 350px;
+}
+
+.not_account{
+    font-size: 14px;
+}
+
+.sing_up{
+    color:#0095f6;
+    font-size: 14px;
+    margin-left: 10px;
+    font-weight: bold;  
+    cursor: pointer;
+}
+
+.get_app{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 80px;
+}
+
+.get{
+    align-items: flex-end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+}
+
+.getit{
+    margin-top: 10px;
+    width: 110px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.getit2{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 110px;
+    height: 40px;
+}

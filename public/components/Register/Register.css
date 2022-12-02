@@ -1,0 +1,115 @@
+.main{
+    display: flex;
+    justify-content: center; 
+}
+
+.container{
+    font-family: Helvetica, Sans-Serif;
+    width: 350px;
+    background: #fff;
+    border: 1px solid #dfdfdf;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    justify-content: center;
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.login-text{
+    font-size: 14px;
+}
+
+.login-bttn{
+    cursor: pointer;
+    color: #0095F6;
+    border: none;
+    font-size: 14px;
+}
+
+.instagram_logo{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    width: 174px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text1{
+    font-size: 17px;
+    text-align: center;
+    margin:20px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #8E8E8E;
+}
+
+.facebook-button{
+    background-color: #0095f6;
+    font-size: 14px;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 268px;
+    height: 31px;
+    border-radius: 3px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.or{
+    text-align: center;
+    font-size: 16px;
+    color: #8e8e8e;
+}
+
+.text2{
+    font-size: 12px;
+    text-align: center;
+    margin:20px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: #8E8E8E;
+}
+
+.get_app{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.get{
+    align-items: flex-end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.getit{
+    margin-top: 10px;
+    width: 110px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.getit2{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 110px;
+    height: 40px;
+}
+
+
+
+
